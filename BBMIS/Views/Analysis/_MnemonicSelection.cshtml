@@ -1,0 +1,91 @@
+﻿
+@{
+    ViewBag.Title = "_MnemonicSelection";
+}
+
+@using (Ajax.BeginForm("Index", "Analysis", new AjaxOptions { HttpMethod = "Get", InsertionMode = InsertionMode.Replace, UpdateTargetId = "mnemonic_selection" }))
+{
+    <div class="container" id="mnemonic_selection">
+
+
+        <form>
+            <div class="container" style="padding-top:40px;">
+                <div class="form-row align-items-center">
+                    <div class="row">
+
+                        <div class="col" style="padding-bottom:20px;">
+                            <label>Brand</label>
+
+                            @Html.DropDownList("brandSearch", new SelectList(ViewBag.Brand))
+                            <button formaction="@Url.Action("Index", "Analysis")">
+                                Update Vehicles
+                            </button>
+                        </div>
+
+                        <div class="w-100"></div>
+                        <div class="col" style="padding-bottom:20px;">
+                            <label>Vehicle</label>
+                            <label>
+                                @Html.DropDownList("vehicleSearch", new SelectList(ViewBag.Vehicle))
+                            </label>
+                            <input type="submit" value="Search" />
+                        </div>
+
+                        <div class="w-100"></div>
+                        <div class="col" style="padding-bottom:20px;">
+                            <label style="padding-right:20px;">Mnemonic</label>
+                            <table class="table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Mnemonic Bodystyle</th>
+                                        <th scope="col">Mnemonic Vehicle</th>
+                                        <th scope="col">Brand</th>
+                                        <th scope="col">Vehicle</th>
+                                        <th scope="col">Country</th>
+                                        <th scope="col">Region</th>
+                                        <th scope="col">Production Plant</th>
+                                        <th scope="col">Sales Parent</th>
+                                        <th scope="col">Platform</th>
+                                        <th scope="col">Program</th>
+                                        <th scope="col">SOP</th>
+                                        <th scope="col">EOP</th>
+                                        <th scope="col"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var mnemonic in ViewBag.Mnemonic)
+                                    {
+
+                                        
+                                      
+                                    <tr>
+                                        <td>@mnemonic.Mnemonic_Bodystyle</td>
+                                        <td>@mnemonic.Mnemonic_Vehicle</td>
+                                        <td>@mnemonic.Brand</td>
+                                        <td>@mnemonic.Vehicle</td>
+                                        <td>@mnemonic.Country</td>
+                                        <td>@mnemonic.Region</td>
+                                        <td>@mnemonic.ProductionPlant</td>
+                                        <td>@mnemonic.SalesParent</td>
+                                        <td>@mnemonic.Platform</td>
+                                        <td>@mnemonic.Program</td>
+                                        <td>@mnemonic.SOP_Year - @mnemonic.SOP_Month</td>
+                                        <td>@mnemonic.EOP_Year - @mnemonic.EOP_Month</td>
+                                        <td> @Ajax.ActionLink("Select", "_Derivation", new { mnemonic_bodystyle = mnemonic.Mnemonic_Bodystyle }, null)</td>
+                                    </tr>
+
+                                    }
+
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </form>
+    </div>
+}

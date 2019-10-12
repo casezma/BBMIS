@@ -1,0 +1,56 @@
+﻿@model BBMIS.Models.Derivation
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Derivation</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CarBuild.Mnemonic_Vehicle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CarBuild.Mnemonic_Vehicle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fuel.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fuel.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Motor.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Motor.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

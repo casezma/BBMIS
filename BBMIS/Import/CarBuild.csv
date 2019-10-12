@@ -1,0 +1,375 @@
+﻿Mnemonic_Bodystyle;Mnemonic_Vehicle;Brand;Vehicle;Country;Region;ProductionPlant;SalesParent;Platform;Program;Bodystyle;Bodytype;SOP_Year;SOP_Month;EOP_Year;EOP_Month
+117561;117561;Audi;A3;Brazil;South;Sao Jose dos Pinhais;0;MQB A/B;AU390;Premium;Sedan - 4D;2027;10;2033;9
+117557;B001220201;Audi;A3;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A/B;AU370;Premium;Sedan - 4D;2015;9;2021;12
+117562;B001234001;Audi;A3;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A/B;AU380;Premium;Sedan - 4D;2022;0;2028;3
+117563;117563;Audi;Q3;Brazil;South;Sao Jose dos Pinhais;0;MQB A/B;AU336;Premium;SUV - 4D;2026;1;2032;12
+117558;B001254201;Audi;Q3;Brazil;South;Sao Jose dos Pinhais;Volkswagen;PQ35;AU316;Premium;SUV - 4D;2016;3;2018;9
+117564;B001205001;Audi;Q3;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A/B;AU326;Premium;SUV - 4D;2018;10;2025;12
+131671;131671;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;0;NCV5;VS30(2);Van;Van - 2D/1SL;2030;1;2039;12
+114404;B000598101;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV3;NCV3;Van;Van - 2D/1SL;2007;1;2019;10
+125684;B002000604;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV3;NCV3;Van;Van - 2D/1SL;2012;1;2019;10
+131646;B002000570;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV3;NCV3;Van;Van - 2D/1SL;2012;1;2019;10
+125685;B002000605;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV4;VS30;Van;Van - 2D/1SL;2019;7;2029;12
+108009;B001286101;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV4;VS30;Van;Van - 2D/1SL;2019;7;2029;12
+131670;B002000601;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;Daimler;NCV4;VS30;Van;Van - 2D/1SL;2019;11;2029;12
+130809;130809;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;0;NCV5;VS30(2);Van;Van - 2D/1SL;2030;1;2039;12
+130810;130810;Mercedes-Benz;Sprinter;Argentina;0;Gonzales Catan;0;NCV5;VS30(2);Van;Van - 2D/1SL;2030;1;2039;12
+116329;B001048601;Mercedes-Benz;Vito;Argentina;0;Gonzales Catan;Daimler;NCV2;VS20;Van;Van - 2D/1SL;2015;6;2019;12
+127748;B001402462;Mercedes-Benz;X-Class;Argentina;0;Cordoba;Daimler;X61B;VS40;Pickup Truck;Pickup - 4D;2019;3;2026;12
+137663;137663;Mercedes-Benz;X-Class;Argentina;0;Cordoba;0;X70X;VS40(2);Pickup Truck;Pickup - 4D;2027;1;2034;6
+144935;B002001942;Mercedes-Benz;A-Class;Brazil;0;Iracemapolis;A-Class;MFA;W177;Premium;Sedan - 4D LWB;2020;6;2026;12
+144936;144936;Mercedes-Benz;A-Class;Brazil;0;Iracemapolis;A-Class;MFA(2);W177(2);Premium;Sedan - 4D;2027;1;2034;7
+127498;127498;Mercedes-Benz;C-Class;Brazil;Southeast;Iracemapolis;0;MRA MID-SIZE(2);W207;Premium;Sedan - 4D;2029;1;2035;12
+119540;B001204101;Mercedes-Benz;C-Class;Brazil;Southeast;Iracemapolis;Daimler;MRA MID-SIZE;W205;Premium;Sedan - 4D;2016;3;2021;12
+119541;B001401952;Mercedes-Benz;C-Class;Brazil;Southeast;Iracemapolis;Daimler;MRA MID-SIZE;W206;Premium;Sedan - 4D;2022;1;2028;12
+124636;124636;Mercedes-Benz;GLA;Brazil;Southeast;Iracemapolis;0;MFA(2);H247(2);Premium;SUV - 4D;2028;1;2034;12
+119538;B001241001;Mercedes-Benz;GLA;Brazil;Southeast;Iracemapolis;Daimler;MFA;X156;Premium;SUV - 4D;2016;9;2020;12
+119539;B001325101;Mercedes-Benz;GLA;Brazil;Southeast;Iracemapolis;Daimler;MFA;H247;Premium;SUV - 4D;2021;1;2027;12
+111876;B000602101;Volkswagen;Amarok;Argentina;0;General Pacheco;Volkswagen;RPU;VN417;Pickup Truck;Pickup - 2D;2009;11;2022;7
+111877;B000386401;Volkswagen;Amarok;Argentina;0;General Pacheco;Volkswagen;RPU;VN417;Pickup Truck;Pickup - 4D;2009;11;2022;7
+110141;B002000702;Volkswagen;Amarok;Argentina;0;General Pacheco;Volkswagen;T6;VN427;Pickup Truck;Pickup - 2D;2023;10;2033;9
+110142;B002000703;Volkswagen;Amarok;Argentina;0;General Pacheco;Volkswagen;T6;VN427;Pickup Truck;Pickup - 4D;2022;8;2033;9
+107000;B001243301;Volkswagen;Spacefox;Argentina;0;General Pacheco;Volkswagen;PQ24;VW218;MPV;MPV - 4D;2006;3;2018;6
+139910;B002000852;Volkswagen;Tarek;Argentina;0;General Pacheco;Volkswagen;MQB A/B;VW316/5;SUV;SUV - 4D;2021;1;2026;12
+139911;B002002603;Volkswagen;Tarek;Argentina;0;General Pacheco;Volkswagen;MQB A/B;VW326/5;SUV;SUV - 4D;2027;1;2031;12
+108994;B000374102;Volkswagen;Fox;Brazil;South;Sao Jose dos Pinhais;Volkswagen;PQ24;VW219;Hatchback;Hatchback - 4D;2003;10;2019;12
+104168;B001326002;Volkswagen;Gol;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;PQ22;VW230SA;Hatchback;Hatchback - 4D;2008;6;2017;7
+105741;B001326101;Volkswagen;Gol;Brazil;Southeast;Taubate;Volkswagen;PQ22;VW230SA;Hatchback;Hatchback - 4D;2008;6;2021;8
+103393;B002001821;Volkswagen;Polo PA;Brazil;Southeast;Taubate;Volkswagen;MQB A0;A00;Hatchback;Hatchback - 3D;2023;3;2030;12
+108883;B001238801;Volkswagen;Golf;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A/B;VW370;Hatchback Mid;Hatchback - 4D;2015;4;2019;2
+113351;B000767201;Volkswagen;Polo;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A0;VW270;Hatchback;Hatchback - 4D;2017;8;2032;12
+113049;B002001743;Volkswagen;Polo;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A0;VW280;Hatchback;Hatchback - 4D;2021;10;2032;5
+139909;139909;Volkswagen;Polo Cross;Brazil;Southeast;Sao Bernardo do Campo;0;MQB A0;VW280/3;SUV;SUV - 4D;2027;8;2032;3
+139908;B002002601;Volkswagen;Polo Cross;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A0;VW270/3;SUV;SUV - 4D;2020;4;2027;7
+106800;B000603901;Volkswagen;Saveiro;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;PQ22;VN237SA;Pickup Small;Pickup - 2D;2009;8;2025;12
+106801;B000603902;Volkswagen;Saveiro;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;PQ22;VN237SA;Pickup Small;Pickup - 2D/E;2009;8;2023;6
+132807;B002002602;Volkswagen;Tarok;Brazil;Southeast;General Pacheco;Volkswagen;MQB A1;VW347;Pickup Mid;Pickup - 2D/E;2022;6;2029;12
+113789;B001045501;Volkswagen;Tarok;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A1;VN3XX;Pickup Mid;Pickup - 4D;2023;1;2029;6
+132809;132809;Volkswagen;Tarok;Argentina;South;General Pacheco;0;MQB A1;VW347(2);Pickup Mid;Pickup - 4D;2030;1;2035;4
+117692;B001401227;Volkswagen;T-Cross;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A0;VW216;SUV;SUV - 4D;2019;2;2025;12
+117688;B002001741;Volkswagen;T-Cross;Brazil;South;Sao Jose dos Pinhais;Volkswagen;MQB A0;VW226;SUV;SUV - 4D;2026;1;2031;9
+125193;125193;Volkswagen;up!;Brazil;Southeast;Taubate;0;MQB A0;A00(2);Hatchback;Hatchback - 4D;2028;12;2035;11
+103985;B000695502;Volkswagen;up!;Brazil;Southeast;Taubate;Volkswagen;PQ12;VW120;Hatchback;Hatchback - 3D;2013;12;2018;12
+117720;B001246101;Volkswagen;up!;Brazil;Southeast;Taubate;Volkswagen;PQ12;VW120;Hatchback;Hatchback - 4D;2013;12;2023;10
+110653;B000796801;Volkswagen;Virtus;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A0;VW271SA;Sedan Small;Sedan - 4D;2017;11;2032;4
+114746;B002001742;Volkswagen;Virtus;Brazil;Southeast;Sao Bernardo do Campo;Volkswagen;MQB A0;VW281SA;Sedan Small;Sedan - 4D;2021;9;2032;5
+101652;B001326201;Volkswagen;Voyage;Brazil;Southeast;Taubate;Volkswagen;PQ22;VW231SA;Sedan Small;Sedan - 4D;2008;9;2021;8
+125192;B002001822;Volkswagen;Voyage;Brazil;Southeast;Taubate;Volkswagen;MQB A0;A00;Sedan Small;Sedan - 4D;2023;3;2030;12
+139914;0;Chevrolet;C-CUV;Argentina;0;Rosario;C-CUV;VSS-F B/C;9BYC;SUV;SUV - 4D;2021;3;2028;2
+139915;139915;Chevrolet;C-CUV;Argentina;0;Rosario;0;VSS-F B/C;9BYC(2);SUV;SUV - 4D;2027;9;2034;8
+127771;127771;Chevrolet;Cruze;Argentina;0;Rosario;0;VSS-F B/C;9CLC(2);Sedan;Sedan - 4D;2030;1;2035;4
+127772;127772;Chevrolet;Cruze;Argentina;0;Rosario;0;VSS-F B/C;9CLC(2);Hatchback Mid;Hatchback - 4D;2030;1;2035;10
+111364;B000779501;Chevrolet;Cruze;Argentina;0;Rosario;General Motors;GLOBAL DELTA/D2XX;D2LC;Sedan;Sedan - 4D;2016;2;2023;4
+112722;B000779502;Chevrolet;Cruze;Argentina;0;Rosario;General Motors;GLOBAL DELTA/D2XX;D2LC;Hatchback Mid;Hatchback - 4D;2016;11;2023;10
+105403;B002001768;Chevrolet;Cruze;Argentina;0;Rosario;General Motors;VSS-F B/C;9CLC;Sedan;Sedan - 4D;2023;5;2030;12
+101279;B002001767;Chevrolet;Cruze;Argentina;0;Rosario;General Motors;VSS-F B/C;9CLC;Hatchback Mid;Hatchback - 4D;2023;11;2030;12
+107315;B001079301;Chevrolet;Trailblazer;Argentina;0;Rosario;General Motors;31XX/32XX;GMi31UX(2);SUV;SUV - 4D;2022;6;2029;5
+141698;B002001752;Chevrolet;B-CUV;Brazil;Southeast;Sao Caetano do Sul;General Motors;VSS-F B/C;B-CUV;SUV;SUV - 4D;2022;1;2028;12
+141699;141699;Chevrolet;B-CUV;Brazil;Southeast;Sao Caetano do Sul;0;VSS-F B/C;B-CUV(2);SUV;SUV - 4D;2029;1;2035;6
+125108;125108;Chevrolet;B-SUV;Brazil;Southeast;Sao Caetano do Sul;0;VSS-F B/C;JBUC(2);SUV;SUV - 4D;2027;1;2033;8
+143865;B002001906;Chevrolet;Cobalt;Brazil;0;Sao Caetano do Sul;Cobalt;VSS-F B/C;JCSC;Sedan;Sedan - 4D;2020;6;2027;5
+143866;B002001907;Chevrolet;Cobalt;Brazil;0;Sao Caetano do Sul;Cobalt;VSS-F B/C;JCSC(2);Sedan;Sedan - 4D;2027;6;2034;5
+113961;B000949001;Chevrolet;Cobalt;Brazil;Southeast;Sao Caetano do Sul;General Motors;GLOBAL GAMMA/G2XX;G1LC;Sedan Small;Sedan - 4D;2011;8;2020;12
+115553;115553;Chevrolet;Colorado;Brazil;Southeast;Sao Jose dos Campos #2;0;T1XX;32XC(2);Pickup Truck;Pickup - 4D;2029;6;2036;5
+115554;115554;Chevrolet;Colorado;Brazil;Southeast;Sao Jose dos Campos #2;0;T1XX;32XC(2);Pickup Truck;Pickup - 2D;2029;6;2036;5
+113151;B001400869;Chevrolet;Montana;Brazil;Southeast;Sao Caetano do Sul;General Motors;GM4200;S4103;Pickup Small;Pickup - 2D;2010;9;2020;12
+114829;B002001759;Chevrolet;Montana;Brazil;Southeast;Sao Caetano do Sul;General Motors;VSS-F B/C;JBRC;Pickup Mid;Pickup - 2D;2021;1;2028;12
+114943;114943;Chevrolet;Montana;Brazil;Southeast;Sao Caetano do Sul;0;VSS-F B/C;JBRC(2);Pickup Mid;Pickup - 2D;2029;1;2034;6
+114276;B000603601;Chevrolet;Onix;Brazil;south;Gravatai;General Motors;GLOBAL GAMMA/G2XX;G1JCB;Hatchback;Hatchback - 4D;2012;10;2019;9
+108596;B000882801;Chevrolet;Onix;Brazil;south;Gravatai;General Motors;VSS-F B/C;JBJC;Hatchback;Hatchback - 4D;2019;10;2026;12
+113879;JBJC(2);Chevrolet;Onix;Brazil;south;Gravatai;0;VSS-F B/C;JBJC(2);Hatchback;Hatchback - 4D;2027;1;2033;6
+126781;B001400490;Chevrolet;Onix;Brazil;Southeast;Sao Caetano do Sul;General Motors;GLOBAL GAMMA/G2XX;G1JCB;Hatchback;Hatchback - 4D;2016;7;2025;8
+109983;B000604601;Chevrolet;Prisma;Brazil;south;Gravatai;General Motors;GLOBAL GAMMA/G2XX;G1SCB;Sedan Small;Sedan - 4D;2013;2;2019;8
+115032;B000882802;Chevrolet;Prisma;Brazil;south;Gravatai;General Motors;VSS-F B/C;JBSC;Sedan Small;Sedan - 4D;2019;9;2026;12
+107180;JBSC(2);Chevrolet;Prisma;Brazil;south;Gravatai;0;VSS-F B/C;JBSC(2);Sedan Small;Sedan - 4D;2027;1;2033;8
+145577;145577;Chevrolet;Prisma;Brazil;0;Sao Caetano do Sul;Prisma;GLOBAL GAMMA/G2XX;G1SCB;Sedan Small;Sedan - 4D;2020;1;2023;5
+107048;B000380702;Chevrolet;S-10;Brazil;Southeast;Sao Jose dos Campos #2;General Motors;GMT355/700;GMi700;Pickup Truck;Pickup - 2D;2012;1;2022;10
+107049;B000380701;Chevrolet;S-10;Brazil;Southeast;Sao Jose dos Campos #2;General Motors;GMT355/700;GMi700;Pickup Truck;Pickup - 4D;2012;1;2022;10
+107050;B001105201;Chevrolet;S-10;Brazil;Southeast;Sao Jose dos Campos #2;General Motors;31XX/32XX;32XC;Pickup Truck;Pickup - 2D;2021;5;2030;12
+107051;B002001788;Chevrolet;S-10;Brazil;Southeast;Sao Jose dos Campos #2;General Motors;31XX/32XX;32XC;Pickup Truck;Pickup - 4D;2022;11;2030;12
+111141;B001096801;Chevrolet;Spin;Brazil;Southeast;Sao Caetano do Sul;General Motors;GLOBAL GAMMA/G2XX;G1NC;MPV;MPV - 4D;2012;7;2022;5
+114555;B001097101;Chevrolet;Spin;Brazil;Southeast;Sao Caetano do Sul;General Motors;VSS-F B/C;JBNC;MPV;MPV - 4D;2022;6;2030;12
+113324;113324;Chevrolet;Spin;Brazil;Southeast;Sao Caetano do Sul;0;VSS-F B/C;JBNC(2);MPV;MPV - 4D;2029;4;2036;3
+125107;B001400139;Chevrolet;Tracker;Argentina;Southeast;Rosario;General Motors;VSS-F B/C;JBUC;SUV;SUV - 4D;2020;1;2030;12
+113728;113728;Chevrolet;Trailblazer;Brazil;Southeast;Sao Jose dos Campos #2;0;T1XX;GMi31UX(3);SUV;SUV - 4D;2029;6;2036;5
+108793;B000728901;Chevrolet;Trailblazer;Brazil;Southeast;Sao Jose dos Campos #2;General Motors;GMT355/700;GMi31UX;SUV;SUV - 4D;2012;10;2022;5
+126131;0;Fiat;Cronos;Argentina;0;Cordoba;Cronos;Small/SUSW;X6S(2);Sedan;Sedan - 4D;2024;4;2031;3
+126130;B001401098;Fiat;Cronos;Argentina;0;Cordoba;FCA;TYPE 199;X6S;Sedan Small;Sedan - 4D;2017;11;2030;12
+109723;B001222701;Fiat;Argo;Brazil;Southeast;Betim;FCA;TYPE 199;X6H;Hatchback;Hatchback - 4D;2017;4;2024;4
+112431;B002002605;Fiat;Argo;Brazil;Southeast;Betim;FCA;Small/SUSW;X6H(2);Hatchback;Hatchback - 4D;2024;5;2030;12
+130808;130808;Fiat;Argo;Brazil;Southeast;Betim;0;Small/SUSW;X6H(3);Hatchback;Hatchback - 4D;2030;7;2037;6
+144492;144492;Fiat;B-CUV;Brazil;0;Betim;B-CUV;Small/SUSW;X3X;SUV;SUV - 4D;2021;5;2028;4
+144493;B002001910;Fiat;B-CUV;Brazil;0;Betim;B-CUV;Small/SUSW(2);X3X(2);SUV;SUV - 4D;2028;5;2035;4
+126066;B002000651;Fiat;B-CUV;Brazil;Southeast;Betim;FCA;Small/SUSW;1900-12;SUV;SUV - 4D;2021;3;2026;12
+126067;126067;Fiat;B-CUV;Brazil;Southeast;Betim;0;Small/SUSW(2);515(2);SUV;SUV - 4D;2027;1;2031;12
+144494;Toro Fastback;Fiat;Toro Fastback;Brazil;northeast;Pernambuco;C-CUV;Small/SUSW;226SUV(2);SUV;SUV - 4D;2024;7;2029;12
+144495;144495;Fiat;Toro Fastback;Brazil;northeast;Pernambuco;C-CUV;Small/SUSW(2);226SUV(3);SUV;SUV - 4D;2030;1;2037;12
+106818;B000386202;Fiat;Doblo;Brazil;Southeast;Betim;FCA;178;223;Van;Van - 2D/1SL;2001;11;2020;12
+106819;B000386201;Fiat;Doblo;Brazil;Southeast;Betim;FCA;178;223;Van;Van - 2D/2SL;2001;11;2020;12
+111979;B001028101;Fiat;Doblo;Brazil;Southeast;Betim;FCA;TYPE 199;263;Van;Van - 2D/1SL;2021;1;2030;10
+105927;B001210501;Fiat;Fiorino;Brazil;Southeast;Betim;FCA;TYPE 199;XMF;Van;Van - 2D;2013;12;2028;12
+108767;108767;Fiat;Fiorino;Brazil;Southeast;Betim;0;Small/SUSW;XMF(2);Van;Van - 2D;2029;1;2038;11
+B002001776;B002001776;Fiat;Freemont;Brazil;northeast;Pernambuco;0;Small/SUSW;551(2);SUV;SUV - 4D;2024;7;2031;12
+107410;B001095401;Fiat;Mobi;Brazil;Southeast;Betim;FCA;TYPE 199;X1H;Hatchback;Hatchback - 4D;2016;1;2022;8
+111140;B001401529;Fiat;Mobi;Brazil;Southeast;Betim;FCA;Small/SUSW;X1X;Hatchback;Hatchback - 4D;2022;9;2030;12
+130440;130440;Fiat;Mobi;Brazil;Southeast;Betim;0;Small/SUSW;X1X(2);Hatchback;Hatchback - 4D;2029;9;2036;8
+101572;B001065201;Fiat;Palio 178;Brazil;Southeast;Betim;Betim;178;178;Wagon;Wagon  - 4D;1997;3;2019;12
+104481;B000386801;Fiat;Siena 326;Brazil;Southeast;Betim;FCA;TYPE 199;326;Sedan Small;Sedan - 4D;2012;2;2019;12
+146013;146013;Fiat;Strada;Brazil;0;Betim;Strada;178;178;Pickup Small;Pickup - 2D/E/1AP;1998;9;2021;9
+143291;143291;Fiat;Strada;Brazil;0;Betim;Strada;TYPE 199;X1P;Pickup Small;Pickup - 2D/E/1AP;2020;1;2029;9
+143292;143292;Fiat;Strada;Brazil;0;Betim;Strada;Small/SUSW;X1P(2);Pickup Small;Pickup - 2D/E;2029;10;2039;9
+101573;B001252802;Fiat;Strada;Brazil;Southeast;Betim;FCA;178;178;Pickup Small;Pickup - 2D;1998;9;2020;4
+101574;B001252801;Fiat;Strada;Brazil;Southeast;Betim;FCA;178;178;Pickup Small;Pickup - 2D/E;1998;9;2020;4
+131343;B001215101;Fiat;Strada;Brazil;Southeast;Betim;FCA;178;X4;Pickup Small;Pickup - 2D/E;1998;9;2020;4
+103899;B000700501;Fiat;Strada;Brazil;Southeast;Betim;FCA;TYPE 199;X1P;Pickup Small;Pickup - 2D/E;2020;5;2027;12
+124977;B002001070;Fiat;Strada;Brazil;Southeast;Betim;FCA;TYPE 199;X1P;Pickup Small;Pickup - 2D;2020;5;2027;12
+126439;B002001091;Fiat;Strada;Brazil;Southeast;Betim;FCA;TYPE 199;X1P;Pickup Small;Pickup - 4D;2020;5;2027;12
+127535;127535;Fiat;Strada;Brazil;Southeast;Betim;0;Small/SUSW;X1P(2);Pickup Small;Pickup - 4D;2028;1;2039;4
+127536;127536;Fiat;Strada;Brazil;Southeast;Betim;0;Small/SUSW;X1P(2);Pickup Small;Pickup - 2D/E;2028;1;2039;4
+127537;127537;Fiat;Strada;Brazil;Southeast;Betim;0;Small/SUSW;X1P(2);Pickup Small;Pickup - 2D;2028;1;2039;4
+107702;B001118801;Fiat;Toro;Brazil;northeast;Pernambuco;FCA;Small/SUSW;226;Pickup Mid;Pickup - 4D;2016;1;2023;7
+107409;B001401532;Fiat;Toro;Brazil;northeast;Pernambuco;FCA;Small/SUSW;226(2);Pickup Mid;Pickup - 4D;2023;8;2030;12
+115939;115939;Fiat;Toro;Brazil;northeast;Pernambuco;0;Small/SUSW(2);226(3);Pickup Mid;Pickup - 4D;2031;1;2037;12
+134529;134529;Fiat;Uno;Brazil;0;Betim;Uno;Small/SUSW;X3H(2);Hatchback;Hatchback - 5D;2027;4;2034;3
+106816;B000389802;Fiat;Uno;Brazil;Southeast;Betim;FCA;TYPE 199;327;Hatchback;Hatchback - 4D;2010;4;2021;12
+114047;B001039101;Fiat;Uno;Brazil;Southeast;Betim;FCA;TYPE 199;X3H;Hatchback;Hatchback - 4D;2022;1;2030;12
+110569;B002000409;Ford;Everest;Argentina;0;General Pacheco #1;Ford;C2;U703;SUV;SUV - 4D;2023;1;2030;12
+102002;B000070601;Ford;Focus;Argentina;0;General Pacheco #1;Ford;C1;C346;Sedan;Sedan - 4D;2013;8;2022;12
+105477;B000343401;Ford;Focus;Argentina;0;General Pacheco #1;Ford;C1;C346;Hatchback Mid;Hatchback - 4D;2013;8;2022;12
+112695;B000389202;Ford;Ranger;Argentina;0;General Pacheco #2;Ford;T6;P375;Pickup Truck;Pickup - 4D;2012;5;2022;7
+102048;B001400786;Ford;Ranger;Argentina;0;General Pacheco #2;Ford;T6;P703;Pickup Truck;Pickup - 4D;2022;8;2031;9
+144914;B002001941;Ford;B-SUV;Brazil;0;Camacari;B-SUV;B2E;BX745;SUV;SUV - 4D;2022;1;2028;12
+144915;144915;Ford;B-SUV;Brazil;0;Camacari;B-SUV;B2E(2);BX745(2);SUV;SUV - 4D;2029;1;2035;12
+143279;143279;Ford;Ecosport;Brazil;0;Camacari;Ecosport;B2E;BX755;SUV;SUV - 4D;2021;4;2027;12
+106401;106401;Ford;Ecosport;Brazil;0;Camacari;Ecosport;B2E(2);BX755(2);SUV;SUV - 4D;2028;1;2034;12
+106555;B000513501;Ford;Ecosport;Brazil;northeast;Camacari;Ford;B2E;B515;SUV;SUV - 4D;2012;7;2021;11
+137102;B002001709;Ford;Ecosport;Brazil;northeast;Camacari;0;B2E;BX755;MPV;MPV - 4D;2021;12;2030;12
+106683;B001258801;Ford;Fiesta;Brazil;Southeast;Sao Bernardo do Campo #1;Ford;B2E;B299;Hatchback;Hatchback - 4D;2013;3;2019;5
+111512;111512;Ford;Ka;Brazil;0;Camacari;Ka;B2E(2);B680(2);Hatchback;Hatchback - 5D;2029;6;2036;5
+104043;B001006001;Ford;Ka;Brazil;northeast;Camacari;Ford;B2E;B562;Hatchback;Hatchback - 4D;2014;5;2021;11
+110574;B001006002;Ford;Ka;Brazil;northeast;Camacari;Ford;B2E;B562;Sedan Small;Sedan - 4D;2014;6;2021;11
+100299;B001215301;Ford;Ka;Brazil;northeast;Camacari;Ford;B2E;B680;Hatchback;Hatchback - 4D;2021;12;2030;12
+113456;B001215302;Ford;Ka;Brazil;northeast;Camacari;Ford;B2E;B680;Sedan Small;Sedan - 4D;2021;12;2030;12
+137600;137600;Ford;Ka;Brazil;Southeast;Sao Bernardo do Campo #1;0;B2E(2);B680(2);Sedan Small;Sedan - 4D;2030;2;2038;1
+123890;B000872601;Jeep;Compass;Brazil;northeast;Pernambuco;FCA;Small/SUSW;551;SUV;SUV - 4D;2016;8;2024;6
+123891;B002000603;Jeep;Compass;Brazil;northeast;Pernambuco;FCA;Small/SUSW;551(2);SUV;SUV - 4D;2024;7;2029;12
+123317;123317;Jeep;Compass;Brazil;northeast;Pernambuco;0;Small/SUSW(2);551(3);SUV;SUV - 4D;2030;1;2035;7
+144491;144491;Jeep;Grand Compass;Brazil;northeast;Pernambuco;Grand Compass;Small/SUSW(2);598(2);SUV;SUV - 4D;2032;1;2039;1
+144490;B002002606;Jeep;Grand Compass;Brazil;northeast;Pernambuco;0;Small/SUSW;1901-08;SUV;SUV - 4D;2021;1;2031;12
+122986;B001286401;Jeep;Renegade;Brazil;northeast;Pernambuco;FCA;Small/SUSW;521;SUV;SUV - 4D;2015;1;2022;12
+122987;B001400099;Jeep;Renegade;Brazil;northeast;Pernambuco;FCA;Small/SUSW;521(2);SUV;SUV - 4D;2023;1;2027;12
+122988;122988;Jeep;Renegade;Brazil;northeast;Pernambuco;0;Small/SUSW(2);521(3);SUV;SUV - 4D;2028;1;2035;12
+115881;115881;BMW;1-Series;Brazil;South;Araquari;0;LU;U01;Premium;Hatchback - 4D;2026;7;2033;6
+107383;B001274001;BMW;1-Series;Brazil;South;Araquari;BMW;LU;F40;Premium;Hatchback - 4D;2019;1;2025;12
+118212;118212;BMW;3-Series;Brazil;South;Araquari;0;LK;G20(2);Premium;Sedan - 4D;2026;1;2032;12
+118211;B001238601;BMW;3-Series;Brazil;South;Araquari;BMW;L7;F30;Premium;Sedan - 4D;2014;10;2019;6
+118213;B001246301;BMW;3-Series;Brazil;South;Araquari;BMW;LK;G20;Premium;Sedan - 4D;2019;7;2025;12
+130805;130805;BMW;X1;Brazil;South;Araquari;0;LU(2);U11(2);Premium;SUV - 4D;2031;1;2036;12
+115419;B001024401;BMW;X1;Brazil;South;Araquari;BMW;LU;F48;Premium;SUV - 4D;2016;2;2022;12
+115420;B002001951;BMW;X1;Brazil;South;Araquari;BMW;LU;U11;Premium;SUV - 4D;2023;1;2030;12
+126090;B001400456;BMW;X3;Brazil;South;Araquari;BMW;L7;F25;Premium;SUV - 4D;2015;7;2018;1
+122329;B001296201;BMW;X3;Brazil;South;Araquari;BMW;LK;G01;Premium;SUV - 4D;2018;3;2025;1
+122330;122330;BMW;X3;Brazil;South;Araquari;BMW;LK;G45;Premium;SUV - 4D;2025;2;2032;1
+130816;130816;BMW;X4;Brazil;South;Araquari;0;LK;G46;Premium;SUV - 4D;2026;1;2032;12
+130814;B001401321;BMW;X4;Brazil;South;Araquari;BMW;L7;F26;Premium;SUV - 4D;2016;8;2018;6
+130815;B001401322;BMW;X4;Brazil;South;Araquari;BMW;LK;G02;Premium;SUV - 4D;2018;11;2025;12
+131873;131873;BMW;X5;Brazil;South;Araquari;0;LG;G65;Premium;SUV - 4D;2027;1;2033;12
+131872;B001122401;BMW;X5;Brazil;South;Araquari;BMW;LG;G05;Premium;SUV - 4D;2020;4;2026;12
+143846;B002001904;Chery;Arrizo 5;Brazil;0;Jacarei;Arrizo 5;M-SERIES;M1A;Sedan;Sedan - 4D;2018;10;2022;8
+143848;143848;Chery;Arrizo 5;Brazil;0;Jacarei;Arrizo 5;M1X;M1A(2);Sedan;Sedan - 4D;2022;9;2028;12
+143849;B002001905;Chery;Arrizo 5;Brazil;0;Jacarei;Arrizo 5;M1X;M1A(3);Sedan;Sedan - 4D;2029;1;2034;8
+146453;B002001945;Chery;Tiggo8;Brazil;0;Anapolis;Tiggo8;T-SERIES;T18;SUV;SUV - 4D;2019;12;2025;12
+146456;B002001946 ;Chery;Tiggo8;Brazil;0;Anapolis;Tiggo8;T-SERIES(2);T18/T1A;SUV;SUV - 4D;2026;1;2032;12
+104001;B001400727;Citroen;Berlingo;Argentina;0;Tres de Febrero;PSA;M49/M59;M59;Van;Van - 2D/2SL;2010;4;2019;7
+104002;B001400726;Citroen;Berlingo;Argentina;0;Tres de Febrero;PSA;M49/M59;M59;Van;Van - 2D/1SL;2010;4;2019;7
+128959;B001401452;Citroen;Berlingo;Argentina;0;Tres de Febrero;PSA;M49/M59;M69;Van;Van - 2D/2SL;2019;8;2034;9
+128960;B001401451;Citroen;Berlingo;Argentina;0;Tres de Febrero;PSA;M49/M59;M69;Van;Van - 2D/1SL;2019;8;2034;9
+113457;B000907601;Citroen;C4 Lounge;Argentina;0;Tres de Febrero;PSA;PF2;B73;Sedan;Sedan - 4D;2013;5;2020;6
+124720;B001400716;Citroen;C-Elysee;Argentina;Argentina;Tres de Febrero;PSA;CMP;C43;Sedan Small;Sedan - 4D;2020;7;2026;12
+104980;B000387901;Citroen;Aircross;Brazil;Southeast;Porto Real;PSA;PF1;A58;MPV;MPV - 4D;2010;10;2019;11
+115882;115882;Citroen;C3;Brazil;Southeast;Porto Real;0;CMP;B618(2);Hatchback;Hatchback - 4D;2027;1;2034;6
+113912;B000380001;Citroen;C3;Brazil;Southeast;Porto Real;PSA;PF1;A51;Hatchback;Hatchback - 4D;2012;8;2020;6
+112296;B001028301;Citroen;C3;Brazil;Southeast;Porto Real;PSA;PF1;B618;Hatchback;Hatchback - 4D;2020;7;2026;12
+134728;B002001624;Citroen;C3 Aircross;Brazil;0;Porto Real;C3 Aircross;CMP;A88(2);SUV;SUV - 4D;2024;1;2030;12
+131818;131818;Citroen;C4;Brazil;0;Porto Real;C4;CMP;C41;Hatchback Mid;Hatchback - 5D;2021;7;2028;12
+134706;134706;Citroen;C4;Brazil;Southeast;Porto Real;0;CMP;C41(2);Hatchback Mid;Hatchback - 4D;2029;1;2036;12
+131817;B002000632;Citroen;C4 Cactus;Brazil;Southeast;Porto Real;0;PF1;E3;Hatchback;Hatchback - 4D;2018;6;2023;6
+124721;124721;Citroen;C-Elysee;Brazil;Southeast;Porto Real;0;CMP;C43(2);Sedan;Sedan - 4D;2027;1;2034;6
+127183;B002001953;Jaguar;E-PACE;Brazil;0;Itatiaia;E-PACE;MLA-Low;X574;Premium;SUV - 4D;2025;4;2032;3
+105548;B000882101;Mitsubishi;ASX;Brazil;Southeast;Catalao;Mitsubishi;GS;ZC;SUV;SUV - 4D;2013;7;2020;6
+101181;B000778001;Mitsubishi;ASX;Brazil;Southeast;Catalao;Mitsubishi;GS(2);4X45;SUV;SUV - 4D;2020;6;2031;12
+131369;B001402034;Mitsubishi;C-SUV;Brazil;Southeast;Catalao;Mitsubishi;GS;NS;SUV;SUV - 4D;2019;7;2024;8
+131370;131370;Mitsubishi;Eclipse Cross;Brazil;Southeast;Catalao;0;CMF-C/D;NS(2);SUV;SUV - 4D;2024;9;2030;12
+144539;144539;Mitsubishi;Eclipse Cross;Brazil;0;Catalao;Eclipse Cross;CMF-C/D(2);NS(3);SUV;SUV - 4D;2030;9;2036;8
+111721;B000901801;Mitsubishi;L200 Triton;Brazil;Southeast;Catalao;Mitsubishi;CR;4P00;Pickup Truck;Pickup - 4D;2016;8;2024;3
+105329;B002001506;Mitsubishi;L200 Triton;Brazil;Southeast;Catalao;Mitsubishi;X70X;H70X;Pickup Truck;Pickup - 4D;2024;4;2033;3
+118364;B001209501;Mitsubishi;Lancer;Brazil;Southeast;Catalao;Mitsubishi;GS;GS41;Sedan;Sedan - 4D;2014;10;2021;9
+133903;133903;Mitsubishi;Outlander;Brazil;0;Catalao;Outlander;CMF-C/D;P33C;SUV;SUV - 4D;2021;7;2028;12
+133904;133904;Mitsubishi;Outlander;Brazil;Southeast;Catalao;0;CMF-C/D(2);P33C(2);SUV;SUV - 4D;2029;1;2034;6
+101318;B002001493;Mitsubishi;Pajero Dakar;Brazil;0;Catalao;Pajero Dakar;CR;CR45;SUV;SUV - 4D;2011;3;2018;3
+145847;B002001943;Mitsubishi;Pajero Dakar;Brazil;0;Catalao;Pajero Dakar;CR;4P45;SUV;SUV - 4D;2019;3;2024;12
+105624;B002001507;Mitsubishi;Pajero Dakar;Brazil;Southeast;Catalao;Mitsubishi;X70X;P70X;SUV;SUV - 4D;2025;1;2032;12
+130436;B001401400;Others;Chery B-SUV;Brazil;0;Jacarei;Chery;T-SERIES;A13T;SUV;SUV - 4D;2018;3;2022;12
+130437;B002001952;Others;Chery B-SUV;Brazil;0;Jacarei;Chery;T-SERIES(2);A13T(2);SUV;SUV - 4D;2023;1;2030;12
+123310;B001401404;Others;Chery C-SUV;Brazil;0;Jacarei;Chery;T-SERIES;T15;SUV;SUV - 4D;2019;1;2023;3
+123311;B001401409;Others;Chery C-SUV;Brazil;0;Jacarei;Chery;T-SERIES(2);T1E;SUV;SUV - 4D;2023;4;2030;12
+104233;104233;Others;Chery Fulwin 2;Brazil;0;0;Chery;A-SERIES(2);A13(3);Hatchback;Hatchback - 4D;2024;1;2030;12
+113658;113658;Others;Chery Fulwin 2;Brazil;0;0;Chery;A-SERIES(2);A13(3);Sedan Small;Sedan - 4D;2024;1;2030;12
+111798;B000877201;Others;Chery Fulwin 2;Brazil;0;Jacarei;Chery;A-SERIES;A13/JC12;Hatchback;Hatchback - 4D;2014;9;2018;4
+111948;B000877202;Others;Chery Fulwin 2;Brazil;0;Jacarei;Chery;A-SERIES;A13/JC12;Sedan Small;Sedan - 4D;2014;9;2018;4
+123396;123396;Others;Chery QQ;Brazil;0;Jacarei;0;S-SERIES(2);S15(3);Hatchback;Hatchback - 4D;2028;1;2033;12
+123308;B001400858;Others;Chery QQ;Brazil;0;Jacarei;Chery;S-SERIES;S15;Hatchback;Hatchback - 4D;2016;4;2021;12
+123309;B001401399;Others;Chery QQ;Brazil;0;Jacarei;Chery;S-SERIES(2);S15(2);Hatchback;Hatchback - 4D;2022;1;2027;12
+130438;130438;Others;Chery Tiggo3X;Brazil;0;Jacarei;0;T-SERIES(2);A13T(3);SUV;SUV - 4D;2029;1;2034;12
+126775;126775;Others;Chery Tiggo5;Brazil;0;Jacarei;0;T-SERIES(2);T17/T19(3);SUV;SUV - 4D;2030;7;2036;6
+126773;B001400933;Others;Chery Tiggo5;Brazil;0;Jacarei;Chery;T-SERIES;T17/T19;SUV;SUV - 4D;2018;12;2024;6
+126774;B001400934;Others;Chery Tiggo5;Brazil;0;Jacarei;Chery;T-SERIES(2);T17/T19(2);SUV;SUV - 4D;2024;7;2030;6
+130439;130439;Others;Chery Tiggo7;Brazil;0;Jacarei;0;T-SERIES(2);T1E(2);SUV;SUV - 4D;2029;4;2035;3
+125759;B001400859;Others;Iveco Daily;Brazil;0;Sete Lagoas;CNH Industrial;S2000;S2000;Van;Van - 2D/1SL;2007;9;2022;9
+105096;B000904001;Others;Iveco Daily;Brazil;0;Sete Lagoas;CNH Industrial;S2000;S2000;Van;Van - 2D/1SP;2007;9;2022;9
+100416;B000774201;Others;Iveco Daily;Brazil;0;Sete Lagoas;CNH Industrial;S2000(2);S2000(2);Van;Van - 2D/1SL;2022;10;2031;9
+125760;B001400860;Others;Iveco Daily;Brazil;0;Sete Lagoas;CNH Industrial;S2000(2);S2000(2);Van;Van - 2D/2SP;2022;10;2031;9
+142036;142036;Others;JAC T40;Brazil;0;Itumbiara;Jianghuai;A;S201;SUV;SUV - 4D;2020;3;2023;2
+142037;142037;Others;JAC T40;Brazil;0;Itumbiara;Jianghuai;A(2);S201(2);SUV;SUV - 4D;2023;3;2027;12
+142038;142038;Others;JAC T40;Brazil;0;Itumbiara;0;A(2);S201(3);SUV;SUV - 4D;2028;1;2034;2
+131337;B001401776;Others;JAC T5;Brazil;0;Camacari;Jianghuai;B;S301(2);SUV;SUV - 4D;2020;8;2026;12
+131338;131338;Others;JAC T5;Brazil;0;Itumbiara;0;B(2);S301(3);SUV;SUV - 4D;2027;1;2032;12
+127182;B001401093;Others;Jaguar C-CUV;Brazil;0;Itatiaia;Tata;D8;X540;SUV;SUV - 4D;2019;4;2025;3
+122138;122138;Others;Land Rover Defender;Brazil;0;Itatiaia;0;MLA-High;L663(2);SUV;SUV - 2D;2027;10;2034;9
+122137;B001400687;Others;Land Rover Defender;Brazil;0;Itatiaia;Tata;PLA-D7u;L663;SUV;SUV - 2D;2020;9;2030;12
+130801;130801;Others;Land Rover Discovery Sport;Brazil;0;Itatiaia;0;MLA-Low;L571(2);SUV;SUV - 4D;2030;7;2038;6
+122031;B001400675;Others;Land Rover Discovery Sport;Brazil;0;Itatiaia;Tata;D8;L550;SUV;SUV - 4D;2016;4;2022;6
+122032;B001401869;Others;Land Rover Discovery Sport;Brazil;0;Itatiaia;Tata;MLA-Low;L571;SUV;SUV - 4D;2022;7;2030;12
+122033;B001401244;Others;Land Rover Range Rover Evoque;Brazil;0;Itatiaia;Tata;D8;L538;SUV;SUV - 4D;2016;2;2018;12
+131920;131920;Others;Marcopolo Cinco;Brazil;0;Sao Mateus;0;RC5;RC5;Van;Van - 2D;2016;4;2018;12
+122333;B001200401;Others;Mini Countryman;Brazil;0;0;BMW;LU;F60;SUV;SUV - 4D;2017;1;2023;12
+130241;B001402254;Others;Suzuki Jimny;Brazil;0;Catalao;Suzuki;YR;YW6;SUV;SUV - 2D;2021;1;2033;12
+131372;131372;Others;Suzuki Jimny Wide;Brazil;0;Catalao;0;YR;YR7(3);SUV;SUV - 2D;2029;1;2035;12
+127993;B001402252;Others;Suzuki Jimny Wide;Brazil;0;Catalao;Suzuki;YR;YR7;SUV;SUV - 2D;2015;6;2020;12
+124737;B001400958;Others;Troller T4;Brazil;0;Horizonte;Ford;TR40;TR40;SUV;SUV - 2D;2014;6;2026;12
+125698;125698;Others;Troller T4;Brazil;0;Horizonte;0;TR40;TR40(2);SUV;SUV - 2D;2027;1;2036;12
+109347;109347;Peugeot;208;Argentina;0;El Palomar;0;CMP;P21(2);Hatchback;Hatchback - 4D;2027;10;2034;9
+106415;B001212701;Peugeot;208;Argentina;0;Porto Real;PSA;CMP;P21;Hatchback;Hatchback - 4D;2020;10;2027;9
+124641;124641;Peugeot;301;Argentina;0;El Palomar;0;CMP;P43(2);Sedan;Sedan - 4D;2029;2;2036;1
+124640;B001400713;Peugeot;301;Argentina;0;Tres de Febrero;PSA;CMP;P43;Sedan Small;Sedan - 4D;2022;2;2029;1
+102869;B000513902;Peugeot;308;Argentina;0;Tres de Febrero;PSA;PF2;T7;Hatchback Mid;Hatchback - 4D;2011;11;2020;12
+103444;B000670001;Peugeot;408;Argentina;0;Tres de Febrero;PSA;PF2;T73;Sedan;Sedan - 4D;2010;12;2022;1
+104609;B001400729;Peugeot;Partner;Argentina;0;Tres de Febrero;PSA;M49/M59;M59;Van;Van - 2D/2SL;2010;4;2019;7
+104610;B001400728;Peugeot;Partner;Argentina;0;Tres de Febrero;PSA;M49/M59;M59;Van;Van - 2D/1SL;2010;4;2019;7
+128957;B001402126;Peugeot;Partner;Argentina;0;Tres de Febrero;PSA;M49/M59;M69;Van;Van - 2D/2SL;2019;8;2034;9
+128958;B001402125;Peugeot;Partner;Argentina;0;Tres de Febrero;PSA;M49/M59;M69;Van;Van - 2D/1SL;2019;8;2034;9
+139424;139424;Peugeot;Pick Up;Argentina;0;El Palomar;Pick Up;KP;KP1;Pickup Truck;Pickup - 4D;2021;3;2030;11
+139425;139425;Peugeot;Pick Up;Argentina;0;El Palomar;0;KP;KP1(2);Pickup Truck;Pickup - 4D;2030;12;2040;11
+107540;B000603001;Peugeot;208;Brazil;Southeast;Porto Real;PSA;PF1;A9;Hatchback;Hatchback - 4D;2013;1;2020;9
+137110;B002001473;Peugeot;308;Brazil;Southeast;Porto Real;0;PF1;SC21;Hatchback Mid;Hatchback - 4D;2021;5;2028;4
+118209;B001262801;Peugeot;2008;Brazil;Southeast;Porto Real;PSA;PF1;A94;SUV;SUV - 4D;2014;11;2021;6
+118210;B001402101;Peugeot;2008;Brazil;Southeast;Porto Real;PSA;CMP;P24;SUV;SUV - 4D;2021;7;2028;6
+128949;128949;Peugeot;2008;Brazil;Southeast;Porto Real;0;CMP;P24(2);SUV;SUV - 4D;2028;7;2035;6
+137113;137113;Peugeot;B-Hatch;Brazil;Southeast;Porto Real;0;CMP;SC21(2);Hatchback Mid;Hatchback - 4D;2028;5;2035;4
+137114;137114;Peugeot;B-Sedan;Brazil;0;Porto Real;B-Sedan;PF1;SC24;Sedan;Sedan - 4D;2022;7;2028;12
+137115;137115;Peugeot;B-Sedan;Brazil;Southeast;Porto Real;0;CMP;SC24(2);Sedan;Sedan - 4D;2029;1;2036;6
+137116;137116;Peugeot;B-SUV;Brazil;0;Porto Real;B-SUV;PF1;SC26;SUV;SUV - 4D;2023;4;2030;3
+137117;137117;Peugeot;B-SUV;Brazil;Southeast;Porto Real;0;CMP;SC26(2);SUV;SUV - 4D;2030;4;2037;3
+144172;B002001908;Honda;B-CUV;Argentina;0;Campana;B-CUV;GSP(2);2GN;SUV;SUV - 4D;2022;4;2028;3
+144174;B002001909;Honda;B-CUV;Argentina;0;Campana;B-CUV;GSP(3);2GN(2);SUV;SUV - 4D;2028;4;2034;3
+123636;B001400076;Honda;HR-V;Argentina;0;Campana;Honda;GSP(2);2XP;SUV;SUV - 4D;2015;4;2022;5
+123637;B001400077;Honda;HR-V;Argentina;0;Campana;Honda;CCA;2XP(2);SUV;SUV - 4D;2022;6;2027;3
+123638;B002001481;Honda;HR-V;Argentina;0;Campana;0;CCA(2);2XP(3);SUV;SUV - 4D;2027;3;2034;6
+112302;B001236101;Honda;City;Brazil;Southeast;Itirapina;Honda;GSP(2);2CT(2);Sedan;Sedan - 4D;2021;9;2025;12
+112021;B001089901;Honda;City;Brazil;Southeast;Sumare #1;Honda;GSP(2);2CT;Sedan;Sedan - 4D;2014;8;2021;8
+109475;B000827601;Honda;Civic;Brazil;Southeast;Sumare #1;Honda;CCA;2SV;Sedan;Sedan - 4D;2016;6;2021;12
+143524;143524;Honda;Fit;Brazil;0;Itirapina;Fit;GSP(2);2WF;Hatchback;Hatchback - 5D;2019;3;2021;1
+112151;B001263001;Honda;Fit;Brazil;Southeast;Itirapina;Honda;GSP(2);2FJ;Hatchback;Hatchback - 4D;2021;6;2026;6
+112259;B002001387;Honda;Fit;Brazil;Southeast;Itirapina;0;GSP(3);2FJ(2);Hatchback;Hatchback - 4D;2026;7;2033;1
+114929;B001400073;Honda;Fit;Brazil;Southeast;Sumare #1;Honda;GSP(2);2WF;Hatchback;Hatchback - 4D;2014;4;2021;5
+143528;143528;Honda;HR-V;Brazil;0;Itirapina;HR-V;GSP(2);2XP;SUV;SUV - 4D;2019;10;2022;3
+113772;B001314601;Honda;HR-V;Brazil;Southeast;Itirapina;Honda;GSP(2);2GN;SUV;SUV - 4D;2022;4;2028;6
+115016;B002001479;Honda;HR-V;Brazil;Southeast;Itirapina;0;GSP(3);2GN(2);SUV;SUV - 4D;2028;6;2034;5
+123635;B001084401;Honda;HR-V;Brazil;Southeast;Sumare #1;Honda;GSP(2);2XP;SUV;SUV - 4D;2015;2;2022;3
+143529;143529;Honda;WR-V;Brazil;0;Itirapina;WR-V;GSP(2);2FM;Hatchback;SUV - 4D;2020;9;2023;5
+131140;B001401698;Honda;WR-V;Brazil;Southeast;Itirapina;Honda;GSP(2);2FM(2);Hatchback;SUV - 4D;2023;1;2029;6
+131329;B002001483;Honda;WR-V;Brazil;Southeast;Itirapina;0;GSP(3);2FM(3);Hatchback;SUV - 4D;2029;6;2035;5
+131139;B001401697;Honda;WR-V;Brazil;Southeast;Sumare #1;Honda;GSP(2);2FM;Hatchback;SUV - 4D;2017;3;2022;12
+123547;B001400516;Hyundai;Creta;Brazil;Southeast;Piracicaba;Hyundai;KP2;GS;SUV;SUV - 4D;2017;2;2020;12
+123548;B001075001;Hyundai;Creta;Brazil;Southeast;Piracicaba;Hyundai;KP2;SU2;SUV;SUV - 4D;2021;1;2026;12
+123549;123549;Hyundai;Creta;Brazil;Southeast;Piracicaba;0;KP2(2);SU2(2);SUV;SUV - 4D;2027;1;2035;2
+102972;102972;Hyundai;HB20;Brazil;Southeast;Piracicaba;0;KP2(2);BR3;Hatchback;Hatchback - 4D;2027;1;2033;3
+101230;101230;Hyundai;HB20;Brazil;Southeast;Piracicaba;0;KP2(2);BR3;Sedan Small;Sedan - 4D;2027;1;2033;6
+105290;B000685801;Hyundai;HB20;Brazil;Southeast;Piracicaba;Hyundai;KP2;HB;Hatchback;Hatchback - 4D;2012;9;2019;4
+103248;B001037201;Hyundai;HB20;Brazil;Southeast;Piracicaba;Hyundai;KP2;HB;Sedan Small;Sedan - 4D;2013;1;2019;6
+112892;B001031901;Hyundai;HB20;Brazil;Southeast;Piracicaba;Hyundai;KP2;BR2;Hatchback;Hatchback - 4D;2019;5;2026;12
+111146;B001031902;Hyundai;HB20;Brazil;Southeast;Piracicaba;Hyundai;KP2;BR2;Sedan Small;Sedan - 4D;2019;7;2026;12
+146461;146461;Hyundai;ix35;Brazil;0;Anapolis;ix35;KP2;NU;SUV;SUV - 4D;2019;4;2024;9
+111264;B001259101;Hyundai;ix35;Brazil;Southeast;Anapolis #1;Hyundai;HD;LM;SUV;SUV - 4D;2013;8;2030;12
+143281;143281;Hyundai;Santa Cruz;Brazil;0;Piracicaba;Santa Cruz;N;NT(2);Pickup Mid;Pickup - 4D;2026;12;2033;12
+130975;130975;Hyundai;Tucson;Brazil;Southeast;Anapolis;0;N(2);NX4(2);SUV;SUV - 4D;2029;1;2035;4
+112796;B002001708;Hyundai;Tucson;Brazil;Southeast;Anapolis;0;N;NX4;SUV;SUV - 4D;2023;5;2028;12
+111989;111989;Hyundai;Tucson;Brazil;Southeast;Anapolis #1;Hyundai;N;TL;SUV;SUV - 4D;2017;5;2023;4
+123893;B001400543;Nissan;Frontier;Argentina;0;Cordoba;Renault/Nissan;X61B;H60A;Pickup Truck;Pickup - 4D;2018;8;2028;12
+114049;114049;Nissan;Frontier;Argentina;0;Cordoba;0;X70X;H70X;Pickup Truck;Pickup - 4D;2029;1;2033;12
+121857;B001321201;Nissan;Kicks;Brazil;Southeast;Resende;Renault/Nissan;V;P02F;SUV;SUV - 4D;2017;4;2023;9
+121858;B001402060;Nissan;Kicks;Brazil;Southeast;Resende;Renault/Nissan;CMF-B;P02F(2);SUV;SUV - 4D;2023;4;2028;12
+123546;123546;Nissan;Kicks;Brazil;Southeast;Resende;0;CMF-B;P02F(3);SUV;SUV - 4D;2029;10;2034;-9
+109038;109038;Nissan;March;Brazil;Southeast;Resende;0;CMF-B;B02E(2);Hatchback;Hatchback - 4D;2026;1;2031;12
+105428;B000861301;Nissan;March;Brazil;Southeast;Resende;Renault/Nissan;V;B02A;Hatchback;Hatchback - 4D;2014;4;2025;12
+101343;B000933701;Nissan;March;Brazil;Southeast;Resende;Renault/Nissan;V;B02E;Hatchback;Hatchback - 4D;2023;1;2030;12
+107336;B002001515;Nissan;Versa;Brazil;0;Resende;Versa;CMF-B;L02D(2);Sedan Small;Sedan - 4D;2025;4;2032;9
+107059;B001008501;Nissan;Versa;Brazil;Southeast;Resende;Renault/Nissan;V;L02B;Sedan Small;Sedan - 4D;2015;1;2025;12
+108182;B001060301;Nissan;Versa;Brazil;Southeast;Resende;Renault/Nissan;V;L02D;Sedan Small;Sedan - 4D;2023;1;2030;12
+127223;B001400962;Renault;Alaskan;Argentina;0;Cordoba;Renault/Nissan;X61B;U60A;Pickup Truck;Pickup - 4D;2018;8;2028;12
+127224;127224;Renault;Alaskan;Argentina;0;Cordoba;0;X70X;H70X;Pickup Truck;Pickup - 4D;2029;1;2037;2
+106925;B000560201;Renault;Fluence;Argentina;0;Cordoba;Renault/Nissan;C;L38;Sedan;Sedan - 4D;2010;11;2017;10
+128265;128265;Renault;Kangoo;Argentina;0;Cordoba;0;CMF-B;KJK(2);Van;Van - 2D/1SL;2030;3;2036;2
+130096;B001402158;Renault;Kangoo;Argentina;0;Cordoba;Renault/Nissan;B0;K67;Van;Van - 2D/1SL;2018;7;2024;2
+125322;125322;Renault;Kangoo;Argentina;0;Cordoba;0;CMF-B;KJK;Van;Van - 2D/1SL;2024;3;2030;12
+127530;127530;Renault;Logan;Argentina;0;Cordoba;0;CMF-B;XJF(2);Sedan Small;Sedan - 4D;2028;10;2035;9
+127520;B001401226;Renault;Logan;Argentina;0;Cordoba;Renault/Nissan;B0;X52;Sedan Small;Sedan - 4D;2016;9;2021;3
+127529;B001402164;Renault;Logan;Argentina;0;Cordoba;Renault/Nissan;CMF-B;XJF;Sedan Small;Sedan - 4D;2021;4;2027;12
+127513;B001401225;Renault;Sandero;Argentina;0;Cordoba;Renault/Nissan;B0;B52;Hatchback;Hatchback - 4D;2016;9;2021;9
+127514;B001402172;Renault;Sandero;Brazil;0;Sao Jose dos Pinhais #1;Renault/Nissan;CMF-B;B52(2);Hatchback;Hatchback - 4D;2021;10;2027;12
+139912;139912;Renault;Arkana;Brazil;0;Sao Jose dos Pinhais #1;Arkana;B0;LJC;SUV;SUV - 4D;2020;9;2026;8
+125187;125187;Renault;Captur;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;HJF(2);SUV;SUV - 4D;2028;1;2035;12
+122178;B001315901;Renault;Captur;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;HHA;SUV;SUV - 4D;2016;1;2021;12
+122179;B001400559;Renault;Captur;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;CMF-B;HJF;SUV;SUV - 4D;2022;1;2027;12
+139913;139913;Renault;C-CUV;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;LJC(2);SUV;SUV - 4D;2026;9;2033;8
+110147;110147;Renault;Duster;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;HJD(2);SUV;SUV - 4D;2026;1;2033;3
+105914;B000738401;Renault;Duster;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;H79;SUV;SUV - 4D;2011;8;2020;3
+109393;B001082801;Renault;Duster;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;HJD;SUV;SUV - 4D;2020;4;2025;12
+112308;B001095301;Renault;Duster Oroch;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;U79;Pickup Mid;Pickup - 4D;2015;8;2025;12
+111672;B001107701;Renault;Duster Oroch;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;UJD;Pickup Mid;Pickup - 4D;2021;1;2026;12
+114634;114634;Renault;Duster Oroch;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;UJD(2);Pickup Mid;Pickup - 4D;2026;1;2033;9
+123416;123416;Renault;Kwid;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-A;XBB(2);Hatchback;Hatchback - 4D;2027;1;2036;12
+123415;B001401108;Renault;Kwid;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;CMF-A;XBB;Hatchback;Hatchback - 4D;2017;6;2026;12
+123102;123102;Renault;Logan;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;XJF(2);Sedan Small;Sedan - 4D;2028;1;2035;9
+110208;B000572301;Renault;Logan;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;X52;Sedan Small;Sedan - 4D;2013;10;2021;3
+113629;B001400669;Renault;Logan;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;CMF-B;XJF;Sedan Small;Sedan - 4D;2021;4;2027;12
+125695;B001401096;Renault;Master;Brazil;South;Sao Jose dos Pinhais #2;Renault/Nissan;X62;X62;Van;Van - 2D/1SL;2013;1;2024;12
+102596;B000513101;Renault;Master;Brazil;South;Sao Jose dos Pinhais #2;Renault/Nissan;X62;X62;Van;Van - 2D/1SL;2013;1;2024;12
+125696;B002001471;Renault;Master;Brazil;South;Sao Jose dos Pinhais #2;Renault/Nissan;X62;XDD;Van;Van - 2D/1SL;2025;1;2032;12
+101488;B002001495;Renault;Master;Brazil;South;Sao Jose dos Pinhais #2;Renault/Nissan;X62;XDD;Van;Van - 2D/1SL;2025;1;2032;12
+123103;123103;Renault;Sandero;Brazil;South;Sao Jose dos Pinhais #1;0;CMF-B;BJF(2);Hatchback;Hatchback - 4D;2029;1;2036;1
+109650;B000602801;Renault;Sandero;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;B0;B52;Hatchback;Hatchback - 4D;2014;5;2021;6
+101176;B001400226;Renault;Sandero;Brazil;South;Sao Jose dos Pinhais #1;Renault/Nissan;CMF-B;BJF;Hatchback;Hatchback - 4D;2021;7;2028;12
+110444;B000401101;Toyota;Hilux;Argentina;0;Zarate;Toyota;IMV;640A;Pickup Truck;Pickup - 4D;2015;10;2023;9
+110445;B000401102;Toyota;Hilux;Argentina;0;Zarate;Toyota;IMV;640A;Pickup Truck;Pickup - 2D;2015;10;2023;9
+102925;B002000384;Toyota;Hilux;Argentina;0;Zarate;Toyota;IMV(2);640A(2);Pickup Truck;Pickup - 2D;2023;10;2031;9
+102926;B002000385;Toyota;Hilux;Argentina;0;Zarate;Toyota;IMV(2);640A(2);Pickup Truck;Pickup - 4D;2023;10;2031;9
+107880;B000401301;Toyota;Hilux SW4;Argentina;0;Zarate;Toyota;IMV;650A;SUV;SUV - 4D;2015;11;2023;10
+112373;B002000383;Toyota;Hilux SW4;Argentina;0;Zarate;Toyota;IMV(2);650A(2);SUV;SUV - 4D;2023;11;2031;10
+132823;132823;Toyota;B-CUV;Brazil;0;Sorocaba;B-CUV;GA-B;410B;SUV;SUV - 4D;2024;3;2032;3
+126054;B001400019;Toyota;Yaris;Brazil;Southeast;Sorocaba;Toyota;EFC;230B;Hatchback;Hatchback - 4D;2018;7;2025;12
+126055;B002000607;Toyota;Yaris;Brazil;Southeast;Sorocaba;Toyota;GA-DL;230B(2);Hatchback;Hatchback - 4D;2026;1;2030;6
+126056;B001400023;Toyota;Yaris;Brazil;Southeast;Sorocaba;Toyota;EFC;231B;Sedan Small;Sedan - 4D;2018;7;2025;12
+126057;B002000608;Toyota;Yaris;Brazil;Southeast;Sorocaba;Toyota;GA-DL;231B(2);Sedan Small;Sedan - 4D;2026;1;2030;6
+111751;0;Toyota;Corolla;Brazil;0;Indaiatuba;Corolla;GA-C;360B(2);Sedan;Sedan - 4D;2025;3;2030;8
+113756;B000561501;Toyota;Corolla;Brazil;Southeast;Indaiatuba;Toyota;MC-C;369A;Sedan;Sedan - 4D;2014;3;2019;7
+103799;B001296901;Toyota;Corolla;Brazil;Southeast;Indaiatuba;Toyota;GA-C;360B;Sedan;Sedan - 4D;2019;9;2025;12
+123802;B002001253;Toyota;Corolla;Brazil;Southeast;Indaiatuba;0;GA-C(2);360B(3);Sedan;Sedan - 4D;2024;9;2030;12
+141700;B002001363;Toyota;C-SUV;Brazil;Southeast;Sorocaba;Toyota;GA-C;740B;SUV;SUV - 4D;2021;3;2026;12
+141701;141701;Toyota;C-SUV;Brazil;Southeast;Sorocaba;0;GA-C;740B(2);SUV;SUV - 4D;2027;1;2032;12
+103949;B001201402;Toyota;Etios;Brazil;Southeast;Sorocaba;Toyota;EFC;860L;Hatchback;Hatchback - 4D;2012;9;2020;12
+107485;B001201401;Toyota;Etios;Brazil;Southeast;Sorocaba;Toyota;EFC;860L;Sedan Small;Sedan - 4D;2012;9;2020;12
+146457;B002001947;Toyota;Prius;Brazil;0;Indaiatuba;Prius;GA-C;690A;Hatchback Mid;Hatchback - 5D;2019;10;2023;12
+146458;B002001948;Toyota;Prius;Brazil;0;Indaiatuba;Prius;GA-C;690X;Hatchback Mid;Hatchback - 5D;2024;1;2029;12
+146459;146459;Toyota;Prius;Brazil;0;Indaiatuba;Prius;GA-C(2);690X(2);Hatchback Mid;Hatchback - 5D;2030;1;2034;12
+130444;130444;Toyota;Yaris;Brazil;Southeast;Sorocaba;0;GA-DL;230B(3);Hatchback;Hatchback - 4D;2030;7;2036;6

@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "_Derivation";
+}
+@using (Ajax.BeginForm("_Derivation", "Analysis", new AjaxOptions { HttpMethod = "Get", InsertionMode = InsertionMode.Replace, UpdateTargetId = "derivation" }))
+{
+    <div class="container" style="padding:20px;" id="derivation">
+
+        <h5>Derivation</h5>
+        <table class="table table-sm table-responsive">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th scope="col">Mnemonic Bodystyle</th>
+                    <th scope="col">Mnemonic Vehicle</th>
+                    <th scope="col">Brand</th>
+                    <th scope="col">Vehicle</th>
+                    <th scope="col">Fuel</th>
+                    <th scope="col">Motor</th>
+                    <th scope="col">Shift</th>
+                    <th scope="col">Cylinder</th>
+                    <th scope="col">Product</th>
+                    <th scope="col">Product Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (ViewBag.Derivation != null)
+                {
+                    foreach (var derivation in ViewBag.Derivation)
+                    {
+
+
+                        <tr>
+                            <td>@derivation.DerivationID</td>
+                            <td>@derivation.Description</td>
+                            <td>Mnemonic Vehicle</td>
+                            <td>Brand</td>
+                            <td scope="col">Vehicle</td>
+                            <td>Fuel</td>
+                            <td>Motor</td>
+                            <td>Shift</td>
+                            <td>Cylinder</td>
+                            <td>Product</td>
+                            <td>Product Type</td>
+                        </tr>
+
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+}

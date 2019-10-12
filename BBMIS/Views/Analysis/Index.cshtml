@@ -1,0 +1,237 @@
+﻿@model IEnumerable<BBMIS.Models.CarBuild>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="container">
+
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="vehicle-selection-tab" data-toggle="tab" href="#vehicle-select" role="tab" aria-controls="vehicle-select" aria-selected="true" style="color:#4f4a4a;">Vehicle</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="derivation-select-tab" data-toggle="tab" href="#derivation-select" role="tab" aria-controls="derivation-select" aria-selected="false" style="color:#4f4a4a;">Derivation</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="infos-tab" data-toggle="tab" href="#infos" role="tab" aria-controls="infos-tab" aria-selected="false" style="color:#4f4a4a;">Infos</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="comments-tab" data-toggle="tab" href="#comments" role="tab" aria-controls="comments-tab" aria-selected="false" style="color:#4f4a4a;">Comments</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="history-tab" data-toggle="tab" href="#history" role="tab" aria-controls="history-tab" aria-selected="false" style="color:#4f4a4a;">History</a>
+        </li>
+    </ul>
+    <div class="tab-content" id="myTabContent">
+       
+            <div class="tab-pane fade show active" id="vehicle-select" role="tabpanel" aria-labelledby="vehicle-selection-tab">
+                @Html.Partial("_MnemonicSelection", Model)
+            </div>
+               
+            <div class="tab-pane fade" id="derivation-select" role="tabpanel" aria-labelledby="derivation-selection-tab">
+                @Html.Partial("_Derivation", Model)
+            </div>
+            <div class="tab-pane fade" id="infos" role="tabpanel" aria-labelledby="infos-tab">
+                <div class="container" style="padding-top:20px; ">
+                    <div class="row">
+                        <div class="col">
+                            <h5>Derivation Selected</h5>
+                            <table class="table table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th scope="col">Mnemonic Bodystyle</th>
+                                        <th scope="col">Mnemonic Vehicle</th>
+                                        <th scope="col">Brand</th>
+                                        <th scope="col">Vehicle</th>
+                                        <th scope="col">Fuel</th>
+                                        <th scope="col">Motor</th>
+                                        <th scope="col">Shift</th>
+                                        <th scope="col">Cylinder</th>
+                                        <th scope="col">Product</th>
+                                        <th scope="col">Product Type</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>ID</td>
+                                        <td scope="col">Mnemonic Bodystyle</td>
+                                        <td scope="col">Mnemonic Vehicle</td>
+                                        <td scope="col">Brand</td>
+                                        <td scope="col">Vehicle</td>
+                                        <td scope="col">Fuel</td>
+                                        <td scope="col">Motor</td>
+                                        <td scope="col">Shift</td>
+                                        <td scope="col">Cylinder</td>
+                                        <td scope="col">Product</td>
+                                        <td scope="col">Product Type</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <h5>Select Supplier: </h5>
+                            <form>
+                                <div class="btn-group">
+                                    <select class="custom-select col" multiple>
+                                        <option selected>Open this select menu</option>
+                                        <option value="1">One</option>
+                                        <option value="2">Two</option>
+                                        <option value="3">Three</option>
+                                    </select>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-lg-4">
+                            <h5>Selected Supplier - Infos</h5>
+                            <table class="table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Year</th>
+                                        <th scope="col">Volume</th>
+                                        <th scope="col">TR%</th>
+                                        <th scope="col">DR%</th>
+                                        <th scope="col"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Year</td>
+                                        <td>Volume</td>
+                                        <td>TR%</td>
+                                        <td>DR%</td>
+                                        <td>
+                                            <button class="btn btn-primary" data-target="#modal" data-toggle="modal">Edit</button>
+                                            <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="TituloModalLongoExemplo" aria-hidden="true">
+                                                <div class="modal-dialog" role="document">
+                                                    <div class="modal-content">
+                                                        <div class="modal-header">
+                                                            <h5 class="modal-title">Share Edit</h5>
+                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                                                                <span aria-hidden="true">&times;</span>
+                                                            </button>
+                                                        </div>
+                                                        <div class="modal-body">
+                                                            <form>
+                                                                <label>Year</label>
+                                                                <input class="form-control" type="text" placeholder="Year" readonly>
+                                                                <label>Volume</label>
+                                                                <input class="form-control" type="text" placeholder="Volume" readonly />
+                                                                <label>TR%</label>
+                                                                <input class="form-control" type="text" placeholder="TR%" />
+                                                                <label>DR%</label>
+                                                                <input class="form-control" type="text" placeholder="DR%" />
+                                                            </form>
+                                                        </div>
+                                                        <div class="modal-footer">
+                                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                                            <button type="button" class="btn btn-primary">Salvar mudanças</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <h5>Select Supplier</h5>
+                            <table class="table table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Supplier</th>
+                                        <th scope="col">Year</th>
+                                        <th scope="col">TR%</th>
+                                        <th scope="col">DR%</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td scope="col">Supplier</td>
+                                        <td scope="col">Year</td>
+                                        <td scope="col">TR%</td>
+                                        <td scope="col">DR%</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="col-lg-4">
+                            <h5>Market Share Validation: 100% </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="comments" role="tabpanel" aria-labelledby="comments-tab">
+                <div class="container" style="padding-top:20px;">
+                    <div class="row">
+                        <div class="col">
+                            <form>
+                                <div class="form-group">
+                                    <label for="exampleFormControlTextarea1">Comments</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" style="min-width: 100%;"></textarea>
+                                    <div class="form-group" style="padding-top:20px;">
+                                        <div class="btn btn-primary" data-target="#comments">Save   </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <table class="table table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Comment</th>
+                                        <th scope="col">User</th>
+                                        <th scope="col">Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Comment</td>
+                                        <td>User</td>
+                                        <td>Date</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <table class="table table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Change</th>
+                                        <th scope="col">User</th>
+                                        <th scope="col">Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Change</td>
+                                        <td>User</td>
+                                        <td>Date</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    }
